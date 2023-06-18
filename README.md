@@ -1,7 +1,7 @@
 # dom-exercises
 
 - [Color Flipper](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper) 🔗
-
+- [Live Demo](https://color-flipper-exercise.netlify.app/) 🔗
 ## Authors
 
 👤 **Ben Mukebo**
